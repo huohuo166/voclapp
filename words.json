@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "word": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "meaning": "实现，完成，达到",
+    "example": "She worked hard to achieve her goal."
+  },
+  {
+    "id": 2,
+    "word": "adventure",
+    "phonetic": "/ədˈventʃə(r)/",
+    "meaning": "冒险，奇遇",
+    "example": "They went on an adventure in the mountains."
+  },
+  {
+    "id": 3,
+    "word": "analysis",
+    "phonetic": "/əˈnæləsɪs/",
+    "meaning": "分析，解析",
+    "example": "His analysis of the problem was very thorough."
+  },
+  {
+    "id": 4,
+    "word": "approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "meaning": "方法，途径；接近",
+    "example": "We need a new approach to solve this issue."
+  },
+  {
+    "id": 5,
+    "word": "benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "meaning": "好处，利益；有益于",
+    "example": "Exercise has many benefits for your health."
+  },
+  {
+    "id": 6,
+    "word": "challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "meaning": "挑战，质疑",
+    "example": "Learning a new language is a real challenge."
+  },
+  {
+    "id": 7,
+    "word": "creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "meaning": "创造性的，有创意的",
+    "example": "She has a very creative mind."
+  },
+  {
+    "id": 8,
+    "word": "definitely",
+    "phonetic": "/ˈdefɪnətli/",
+    "meaning": "肯定地，明确地",
+    "example": "I will definitely help you with this project."
+  },
+  {
+    "id": 9,
+    "word": "environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "meaning": "环境",
+    "example": "We must protect our environment."
+  },
+  {
+    "id": 10,
+    "word": "experience",
+    "phonetic": "/ɪkˈspɪriəns/",
+    "meaning": "经验，经历；体验",
+    "example": "She has a lot of experience in teaching."
+  },
+  {
+    "id": 11,
+    "word": "flexible",
+    "phonetic": "/ˈfleksəbl/",
+    "meaning": "灵活的，可变通的",
+    "example": "You need to be flexible when planning your schedule."
+  },
+  {
+    "id": 12,
+    "word": "generation",
+    "phonetic": "/ˌdʒenəˈreɪʃn/",
+    "meaning": "一代人，世代",
+    "example": "Each generation faces different challenges."
+  },
+  {
+    "id": 13,
+    "word": "immediate",
+    "phonetic": "/ɪˈmiːdiət/",
+    "meaning": "立即的，直接的",
+    "example": "We need an immediate solution to this problem."
+  },
+  {
+    "id": 14,
+    "word": "independent",
+    "phonetic": "/ˌɪndɪˈpendənt/",
+    "meaning": "独立的，自主的",
+    "example": "She became independent after graduating from college."
+  },
+  {
+    "id": 15,
+    "word": "knowledge",
+    "phonetic": "/ˈnɑːlɪdʒ/",
+    "meaning": "知识，学问",
+    "example": "Knowledge is power."
+  },
+  {
+    "id": 16,
+    "word": "leadership",
+    "phonetic": "/ˈliːdərʃɪp/",
+    "meaning": "领导能力，领导地位",
+    "example": "Good leadership is essential for team success."
+  },
+  {
+    "id": 17,
+    "word": "opportunity",
+    "phonetic": "/ˌɑːpərˈtuːnəti/",
+    "meaning": "机会，时机",
+    "example": "This job offers a great opportunity for career growth."
+  },
+  {
+    "id": 18,
+    "word": "particularly",
+    "phonetic": "/pərˈtɪkjələrli/",
+    "meaning": "特别地，尤其",
+    "example": "I particularly enjoy reading mystery novels."
+  },
+  {
+    "id": 19,
+    "word": "responsibility",
+    "phonetic": "/rɪˌspɑːnsəˈbɪləti/",
+    "meaning": "责任，职责",
+    "example": "With great power comes great responsibility."
+  },
+  {
+    "id": 20,
+    "word": "successful",
+    "phonetic": "/səkˈsesfl/",
+    "meaning": "成功的",
+    "example": "She is a successful businesswoman."
+  },
+  {
+    "id": 21,
+    "word": "technology",
+    "phonetic": "/tekˈnɑːlədʒi/",
+    "meaning": "技术，科技",
+    "example": "Technology has changed the way we communicate."
+  },
+  {
+    "id": 22,
+    "word": "university",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+    "meaning": "大学",
+    "example": "She graduated from a famous university."
+  },
+  {
+    "id": 23,
+    "word": "volunteer",
+    "phonetic": "/ˌvɑːlənˈtɪr/",
+    "meaning": "志愿者；自愿做",
+    "example": "Many students volunteer at the local hospital."
+  },
+  {
+    "id": 24,
+    "word": "wonderful",
+    "phonetic": "/ˈwʌndərfl/",
+    "meaning": "精彩的，极好的",
+    "example": "We had a wonderful time at the party."
+  },
+  {
+    "id": 25,
+    "word": "communication",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "meaning": "交流，沟通",
+    "example": "Good communication is key to any relationship."
+  },
+  {
+    "id": 26,
+    "word": "competition",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+    "meaning": "竞争，比赛",
+    "example": "The competition for jobs is very fierce."
+  },
+  {
+    "id": 27,
+    "word": "concentrate",
+    "phonetic": "/ˈkɑːnsntreɪt/",
+    "meaning": "集中注意力，专心",
+    "example": "You need to concentrate on your studies."
+  },
+  {
+    "id": 28,
+    "word": "confidence",
+    "phonetic": "/ˈkɑːnfɪdəns/",
+    "meaning": "信心，自信",
+    "example": "She spoke with great confidence."
+  },
+  {
+    "id": 29,
+    "word": "development",
+    "phonetic": "/dɪˈveləpmənt/",
+    "meaning": "发展，开发",
+    "example": "The development of new technology takes time."
+  },
+  {
+    "id": 30,
+    "word": "education",
+    "phonetic": "/ˌedʒuˈkeɪʃn/",
+    "meaning": "教育",
+    "example": "Education is the foundation of a successful society."
+  }
+]
