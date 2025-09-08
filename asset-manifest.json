@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voclapp/static/css/main.23d0e720.css",
+    "main.js": "/voclapp/static/js/main.ecc48512.js",
+    "index.html": "/voclapp/index.html",
+    "main.23d0e720.css.map": "/voclapp/static/css/main.23d0e720.css.map",
+    "main.ecc48512.js.map": "/voclapp/static/js/main.ecc48512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d0e720.css",
+    "static/js/main.ecc48512.js"
+  ]
+}
